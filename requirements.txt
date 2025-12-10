@@ -6,5 +6,3 @@ sentencepiece
 protobuf
 pandas>=2.2.0
 plotly
-pandas==2.1.4
-plotly==5.18.0
