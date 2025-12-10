@@ -1,5 +1,7 @@
 # 📝 Text Summarization Comparison App
 
+🚀 **[Live Demo](https://llmeval-dpyznpyt4rkk6mvcpywmyq.streamlit.app/)** - Try it now!
+
 An advanced NLP application that performs comparative analysis of state-of-the-art text summarization models using HuggingFace Transformers, with comprehensive evaluation metrics and interactive visualizations.
 
 ## 🎯 Project Overview
